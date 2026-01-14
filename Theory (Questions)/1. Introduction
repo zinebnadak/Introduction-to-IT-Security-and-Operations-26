@@ -1,0 +1,31 @@
+Question prompt: Help me write some efficient and summary questions of this theory notes I took
+(in eng btw) and the answers to those questions. Mke them so that the Question (ex.Q1) and directly below the answer to that question (ex. A1)
+, include only the important and fundamental stuff, create them according to the perspective of my README goals
+
+
+--- IT operations ---
+IT consists of different kind of systems. Basically that is  breakable algorithms that gets processed by hardware and lagar resultat i databaser/filer
+Hårdvara behöver konfigureras övervakas under drift och dess livscyckel behöver hanteras
+IT ska "bara funka" dvs inga avbrott, förlorad info, förlorad arbetstid
+inom systemtuveckling bygger vi ny funktionalitet, system, programvaror
+Inom it drift ser vi till att de systemen fungerar alla dagar
+
+Exempel på it drift
+servers - kan ske på egen hårdvara eller andras (moln)
+nätverk - kan ske till interna eller externa kunder
+säkerhet, behörigheter - kan ske på olika tider på dygnet
+backuper inkl återställning - kan ske med användare på andra sidan jorden
+felsökning av oliak system - kan betyda att varje minut nertil kostar 1000€
+support till användare
+
+Server
+
+Server är en Dator
+En server har olika funtioner ex webbserver
+
+A backup
+
+en säkerhetskopia av en info som kan skapas sparas och raderas , kan återsälla ettsytsem info till tidigare tillstånd
+hur ofta tar backup hur länge sparas den hur snabbt går det att återställa.
+
+felsökning
